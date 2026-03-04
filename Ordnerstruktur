@@ -1,0 +1,15 @@
+Dubai_Luxury_Website/
+│
+├─ index.html
+├─ about.html
+├─ properties.html
+├─ contact.html
+├─ impressum.html
+├─ privacy.html
+│
+├─ css/
+│   └─ style.css
+├─ js/
+│   └─ scripts.js
+└─ images/
+    └─ Platzhalterbilder
